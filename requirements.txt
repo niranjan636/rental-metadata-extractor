@@ -1,0 +1,7 @@
+google-genai
+python-dotenv
+python-docx
+pandas
+Pillow
+pywin32
+PyMuPDF
